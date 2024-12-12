@@ -1,0 +1,124 @@
+NICK damo34
+USER Damo 0 irc.rizon.net :Damo
+:irc.broke-it.com 439 * :Please wait while we process your connection.
+:irc.broke-it.com NOTICE AUTH :*** Looking up your hostname...
+:irc.broke-it.com NOTICE AUTH :*** Checking Ident
+:irc.broke-it.com NOTICE AUTH :*** Found your hostname
+:irc.broke-it.com NOTICE AUTH :*** No Ident response
+:irc.broke-it.com NOTICE damo34 :*** Your host is masked (Rizon-86F87D57.threembb.ie)
+:irc.broke-it.com 001 damo34 :Welcome to the Rizon Internet Relay Chat Network damo34
+:irc.broke-it.com 002 damo34 :Your host is irc.broke-it.com[76.72.161.18/6667], running version hybrid-7.2.3+plexus-3.0.1(20120725_0-534)
+:irc.broke-it.com 003 damo34 :This server was created Oct 21 2012 at 07:46:56
+:irc.broke-it.com 004 damo34 irc.broke-it.com hybrid-7.2.3+plexus-3.0.1(20120725_0-534) CDFGNRSUWXabcdfgijklnopqrsuwxyz BIMNORSabcehiklmnopqstvz Iabehkloqv
+:irc.broke-it.com 005 damo34 CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=160 MODES=4 NICKLEN=30 TOPICLEN=390 PREFIX=(qaohv)~&@%+ STATUSMSG=~&@%+ NETWORK=Rizon MAXLIST=beI:100 TARGMAX=ACCEPT:,KICK:1,LIST:1,NAMES:1,NOTICE:4,PRIVMSG:4,WHOIS:1 CHANTYPES=# :are supported by this server
+:irc.broke-it.com 005 damo34 CHANLIMIT=#:75 CHANNELLEN=50 CHANMODES=beI,k,l,BCMNORScimnpstz AWAYLEN=160 KNOCK NAMESX UHNAMES ELIST=CMNTU SAFELIST FNC EXCEPTS=e INVEX=I :are supported by this server
+:irc.broke-it.com 042 damo34 90CAAANI0 :your unique ID
+:irc.broke-it.com 251 damo34 :There are 37 users and 22787 invisible on 22 servers
+:irc.broke-it.com 252 damo34 90 :IRC Operators online
+:irc.broke-it.com 253 damo34 6 :unknown connection(s)
+:irc.broke-it.com 254 damo34 26098 :channels formed
+:irc.broke-it.com 255 damo34 :I have 22824 clients and 0 servers
+:irc.broke-it.com 265 damo34 22824 24610 :Current local users 22824, max 24610
+:irc.broke-it.com 266 damo34 22824 24610 :Current global users 22824, max 24610
+:irc.broke-it.com 375 damo34 :- irc.broke-it.com Message of the Day - 
+:irc.broke-it.com 372 damo34 :-    Welcome to irc.broke-it.com
+:irc.broke-it.com 372 damo34 :- 
+:irc.broke-it.com 372 damo34 :-         Now its time for **UPDATED** conversational spanish with grimlock
+:irc.broke-it.com 372 damo34 :- 
+:irc.broke-it.com 372 damo34 :-    Las ardillas. Me persiguen. Quieren mis tuercas pero no pueden tenerlas.
+:irc.broke-it.com 372 damo34 :- 
+:irc.broke-it.com 372 damo34 :-    no habla? the squirrels. they chase me. they want my nuts but they
+:irc.broke-it.com 372 damo34 :-    can not have them.
+:irc.broke-it.com 372 damo34 :- 
+:irc.broke-it.com 372 damo34 :-    El gato en mi pantalones, quiere mi burrito. Pero el no puede
+:irc.broke-it.com 372 damo34 :-    tenerlo. No compartire con el.
+:irc.broke-it.com 372 damo34 :- 
+:irc.broke-it.com 372 damo34 :-    Still no habla? the cat in my pants, he wants my burrito. But he can
+:irc.broke-it.com 372 damo34 :-    not have it. I will not share with him.
+:irc.broke-it.com 372 damo34 :- 
+:irc.broke-it.com 372 damo34 :-    Por que el perro que lame mis bolas? Debo de haber banado en mantequilla
+:irc.broke-it.com 372 damo34 :-    de mani de nuevo ...
+:irc.broke-it.com 372 damo34 :- 
+:irc.broke-it.com 372 damo34 :-    Really!?!? No habla?! You really need to work on your spanglish skills..
+:irc.broke-it.com 372 damo34 :-    Why is the dog licking my balls? I must have bathed in peanut butter
+:irc.broke-it.com 372 damo34 :-    again...
+:irc.broke-it.com 372 damo34 :- 
+:irc.broke-it.com 372 damo34 :-    Cuando salgo de la peluqueria despues de tener mi espalda afeitado, me
+:irc.broke-it.com 372 damo34 :-    doy cuenta de que seria mucho mas barato tener un rebano de cabras.
+:irc.broke-it.com 372 damo34 :- 
+:irc.broke-it.com 372 damo34 :-    You really need to sign up for my formal spanish lessons.  I can teach
+:irc.broke-it.com 372 damo34 :-    many more useful phrases phrases!  When I leave the barber after having
+:irc.broke-it.com 372 damo34 :-    my back shaved, I realize it would be much cheaper to own a herd of goats.
+:irc.broke-it.com 372 damo34 :- 
+:irc.broke-it.com 372 damo34 :-    Usted dice que el tomate, digo que me gusta la leche con chocolate y
+:irc.broke-it.com 372 damo34 :-    panecillos. Has visto a mi cepillo de dientes?
+:irc.broke-it.com 372 damo34 :- 
+:irc.broke-it.com 372 damo34 :-    My lesson rates are very reasonable!  I can teach you to splanglish like
+:irc.broke-it.com 372 damo34 :-    I do!  You say tomato, I say I like chocolate milk and bagels.  Have you
+:irc.broke-it.com 372 damo34 :-    seen my toothbrush?
+:irc.broke-it.com 372 damo34 :- 
+:irc.broke-it.com 372 damo34 :-    mi escroto es como un helic.ptero de dolor. no recibir un golpe en el oj
+:irc.broke-it.com 372 damo34 :-    o con esa mierda.
+:irc.broke-it.com 372 damo34 :- 
+:irc.broke-it.com 372 damo34 :-    I am considering expanding my lessons to french.  Did you know I spoke 
+:irc.broke-it.com 372 damo34 :-    french?  I speak it quite well.  My ball sack is like a helicopter of pain.
+:irc.broke-it.com 372 damo34 :-    Do not get hit in the eye with that shit.
+:irc.broke-it.com 372 damo34 :- 
+:irc.broke-it.com 372 damo34 :-         This has been conversational spanish with grimlock, time for
+:irc.broke-it.com 372 damo34 :-         something more serious.
+:irc.broke-it.com 372 damo34 :- 
+:irc.broke-it.com 372 damo34 :-    --Welcome to irc.broke-it.com part of Rizon--
+:irc.broke-it.com 372 damo34 :-    Listening on ports: 6660 - 6669, 7000 SSL: 6697 and 9999
+:irc.broke-it.com 372 damo34 :- 
+:irc.broke-it.com 372 damo34 :-    -- Server Rules
+:irc.broke-it.com 372 damo34 :-    - No Flooding
+:irc.broke-it.com 372 damo34 :-    - No Bots (auto-detected)
+:irc.broke-it.com 372 damo34 :-    - No Clones
+:irc.broke-it.com 372 damo34 :-    - No Spamming
+:irc.broke-it.com 372 damo34 :-    - No Takeovers
+:irc.broke-it.com 372 damo34 :-    - Clients must respond to VERSION requests!
+:irc.broke-it.com 372 damo34 :-    - We will not tolerate the distribution of child pornography.
+:irc.broke-it.com 372 damo34 :-    - Access granted to this server is a privilege.
+:irc.broke-it.com 372 damo34 :-    - Staff members may disconnect clients for any or no reason.
+:irc.broke-it.com 372 damo34 :- 
+:irc.broke-it.com 372 damo34 :-  --Visit us in #help for assistance with anything irc related--
+:irc.broke-it.com 372 damo34 :-  --Visit us in #services for assistance from an IRC Operator--
+:irc.broke-it.com 372 damo34 :-  --Visit us in #broke-it to help support this client server--
+:irc.broke-it.com 372 damo34 :- 
+:irc.broke-it.com 376 damo34 :End of /MOTD command.
+:damo34!~Damo@Rizon-86F87D57.threembb.ie MODE damo34 :+ix
+:Global!service@rizon.net NOTICE damo34 :[.Logon News. - May 21 2011] .First time on Rizon? Be sure to read the FAQ! http://s.rizon.net/FAQ
+:Global!service@rizon.net NOTICE damo34 :[.Random News. - Dec 21 2006] Did you know? Rizon now offers SSL IRC connections! All servers support SSL on ports 6697 and 9999. Questions on SSL? Need help setting it up? Join #SSL
+:py-ctcp!ctcp@ctcp-scanner.rizon.net PRIVMSG damo34 :.VERSION.
+:hopm-siglost!service@rizon.net NOTICE damo34 :For network safety, your client is being scanned for open proxies by proxyscan.siglost.com (188.122.74.139). This scan will not harm your computer.
+NOTICE py-ctcp :.VERSION AndChat 1.4.1 http://www.andchat.net.
+JOIN #irisscon
+:damo34!~Damo@Rizon-86F87D57.threembb.ie JOIN :#irisscon
+:irc.broke-it.com 332 damo34 #irisscon :Welcome to IRISSCON 2012! Hope you enjoy the challenges!
+:irc.broke-it.com 333 damo34 #irisscon irissDude!~root@Rizon-4C42343F.ip-142-4-204.net 1351179320
+:irc.broke-it.com 353 damo34 @ #irisscon :damo34 @irissDude
+:irc.broke-it.com 366 damo34 #irisscon :End of /NAMES list.
+MODE #irisscon
+:irc.broke-it.com 324 damo34 #irisscon +npst 
+:irc.broke-it.com 329 damo34 #irisscon 1351179229
+WHO #irisscon
+:irc.broke-it.com 352 damo34 #irisscon ~Damo Rizon-86F87D57.threembb.ie * damo34 H :0 Damo
+:irc.broke-it.com 352 damo34 #irisscon ~root Rizon-4C42343F.ip-142-4-204.net * irissDude H@ :0 root
+:irc.broke-it.com 315 damo34 #irisscon :End of /WHO list.
+:irissDude!~root@Rizon-4C42343F.ip-142-4-204.net PRIVMSG #irisscon :hey
+PRIVMSG #irisscon :Yo
+:irissDude!~root@Rizon-4C42343F.ip-142-4-204.net PRIVMSG #irisscon :any news ?
+PRIVMSG #irisscon :None really' just finished that challenge
+[78 bytes missing in capture file].:irissDude!~root@Rizon-4C42343F.ip-142-4-204.net PRIVMSG #irisscon :was it hard?
+PRIVMSG #irisscon :Tough enough
+PRIVMSG #irisscon :Fun though
+:irissDude!~root@Rizon-4C42343F.ip-142-4-204.net PRIVMSG #irisscon :cool
+PRIVMSG #irisscon :The KEY for it is: b55a36fe679a97ab7ac0a1f4a762a228552e8a1aa07d6de5efbce26496ce3f63  !
+:irissDude!~root@Rizon-4C42343F.ip-142-4-204.net PRIVMSG #irisscon :nice one dude, will take note
+PRIVMSG #irisscon :Cheers
+:irissDude!~root@Rizon-4C42343F.ip-142-4-204.net PRIVMSG #irisscon :np
+PRIVMSG #irisscon :Anyways gotta get something to eat
+PRIVMSG #irisscon :Chat later
+PRIVMSG #irisscon :Cya
+:irissDude!~root@Rizon-4C42343F.ip-142-4-204.net PRIVMSG #irisscon :cya later
+[27 bytes missing in capture file].QUIT :Bye
